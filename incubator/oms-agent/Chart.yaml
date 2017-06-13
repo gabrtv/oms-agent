@@ -1,0 +1,4 @@
+apiVersion: v1
+description: Microsoft Operations Management Suite (OMS) Agent
+name: oms-agent
+version: 0.1.0

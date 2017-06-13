@@ -1,0 +1,2 @@
+Microsoft OMS Agent is installed.
+
